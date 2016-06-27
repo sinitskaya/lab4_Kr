@@ -157,7 +157,7 @@
 * [`gtest`](https://github.com/sinitskaya/lab4_Kr/tree/q1/gtest) - библиотека GoogleTest.
 * [`include`](https://github.com/sinitskaya/lab4_Kr/tree/q1/include) - директория для размещения заголовочных файлов и реализаций структур данных.
 * [`samples`](https://github.com/sinitskaya/lab4_Kr/tree/q1/samples) - директория для размещения исходного кода приложения алгоритма Дейкстры, Краскала, пирамидальной сортировки.
-* [`test`](https://github.com/sinitskaya/lab4_Kr/tree/q1/test) - директория для размещения тестов.
+* [`tests`](https://github.com/sinitskaya/lab4_Kr/tree/q1/test) - директория для размещения тестов.
 * [`sln`](https://github.com/sinitskaya/lab4_Kr/tree/q1/sln/vc12) - директория с файлими решений (на данный момент Visual Studio 2012).
 * [`img`](https://github.com/sinitskaya/lab4_Kr/tree/q1/img) - директория с изображениями для отчета;
 * [`src`](https://github.com/sinitskaya/lab4_Kr/tree/q1/src) - директория для размещения реализационных файлов
